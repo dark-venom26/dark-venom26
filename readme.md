@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aman Vishwakarma</h1>
-<h3 align="center">I'm blockchain and full stack developer</h3>
+
+[![MasterHead](https://www.kg-legal.eu/wp-content/uploads/2021/10/blockchain.gif)]
+<h2 align="left">Hi there👋, I'm Aman Vishwakarma</h2>
+<h3 align="left">I'm Blockchain and Full Stack(MERN) Developer</h3>
+
+<img align="right" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="400" alt="coder" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-venom26&label=Profile%20views&color=0e75b6&style=flat" alt="dark-venom26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-venom26" alt="dark-venom26" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amanvish26" target="blank"><img src="https://img.shields.io/twitter/follow/amanvish26?logo=twitter&style=for-the-badge" alt="amanvish26" /></a> </p>
 
 - 🌱 I’m currently learning **Web3.js**
 
-- 💬 Ask me about **react, blockchain**
+- 💬 Ask me about **react, web2.0, web3.0**
 
 - 📫 How to reach me **amanvish.vns@gmail.com**
 
