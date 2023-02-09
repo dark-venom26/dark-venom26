@@ -7,7 +7,7 @@
 # 💫About Me :
 - 🚀 I'm **Blockchain** and **Full Stack(MERN) Developer**<br>
 - ❤️ Interests **Video Editing, Music, Games**<br>
-- 🌱 Exploring **Web3.0** <br>
+- 🌍 Exploring **Web3.0** <br>
 - 📫 How to reach me **amanvish.vns@gmail.com**
 
 <img align="right" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="400" alt="coder" />
