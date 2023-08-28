@@ -5,7 +5,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=dark-venom26&label=Profile%20views&color=0e75b6&style=flat" alt="dark-venom26" /> </p>
 
 # 💫About Me :
-- 🚀 I'm **Blockchain** and **Full Stack(MERN) Developer**<br>
+- 🚀 I'm **Software Developer**<br>
 - ❤️ Interests **Video Editing, Music, Games**<br>
 - 🌍 Exploring **Web3.0** <br>
 - 📫 How to reach me **amanvish.vns@gmail.com**
